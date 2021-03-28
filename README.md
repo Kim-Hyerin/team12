@@ -9,4 +9,6 @@
 ## Team Info
 
 - 양성빈
-- name2
+- 임홍규
+- name3
+- name4
