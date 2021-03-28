@@ -1,6 +1,12 @@
 # Team 12 Project
 
-## Team 12 subject
+## 개요
+
+## Stack Information
+
+## About Project
+
+## Team Info
 
 - name1
 - name2
