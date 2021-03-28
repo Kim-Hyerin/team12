@@ -8,5 +8,5 @@
 
 ## Team Info
 
-- name1
+- 양성빈
 - name2
