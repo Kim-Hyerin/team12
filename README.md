@@ -6,7 +6,7 @@
 
 ## About Project
 
-## Team Info
+## Team member
 
 - 양성빈
 - 임홍규
